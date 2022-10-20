@@ -1,0 +1,36 @@
+
+
+   
+   #pseudo-bottone:hover{
+	background-color: violet;
+	color: black;
+    transition: all 5s linear;
+ } 
+ 
+ #pseudo-bottone2{ 
+   border:3px solid brown;
+   width:80px;
+   height:25px;
+   line-height: 25px;          /*per centrare*/
+   text-align:center;
+   border-radius:2px;}
+   
+   #pseudo-bottone2:hover{
+	background-color: yellow;
+	color: black;
+    transition: all 2s linear;
+ } 
+ 
+ #pseudo-bottone3{ 
+   border:3px solid green;
+    width:30px;
+   height:30px;
+   line-height: 25px;          /*per centrare*/
+   text-align:center;
+   border-radius:17px;}
+   
+    #pseudo-bottone3:hover{
+	background-color: pink;
+	color: black;
+    transition: all 5s linear;
+ } 
